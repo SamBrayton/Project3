@@ -1,3 +1,7 @@
+
+#### Samantha Brayton
+#### April 2023 
+#### Purpose: To scrape data from a website, perform an analysis, and create data visualizations
 # Project3 - Web Scraping Box Office Mojo
 
 
