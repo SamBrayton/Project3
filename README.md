@@ -49,6 +49,8 @@
 
 <img width="592" alt="Bar3" src="https://user-images.githubusercontent.com/124735350/233654086-d29a9f72-1070-4a61-98b8-3ff777df5ec4.png">
 
+##### 2020 was one of the lowest profitable box office years due to Covid-19. The world was on lockdown and everything was closed including the movies, therefore it is one of the least profitable years for box office. 
+
 ##### Box office highest gross  
 
 <img width="545" alt="Pic6" src="https://user-images.githubusercontent.com/124735350/233654061-1dc95d0a-87b7-4d20-b3d3-17b73ad1a758.png">
